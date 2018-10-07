@@ -1,8 +1,7 @@
 # a1-news-mzhang
 
-<head>
-‘Stone Journey’ at Worcester Art Museum raises questions of art ownership and value
-</head>
+## ‘Stone Journey’ at Worcester Art Museum raises questions of art ownership and value
+
 
 We live in a time when wealthy collectors shell out hundreds of millions of dollars for a single artwork, placing seemingly unlimited value on them. But how does that compare with the value of the natural treasures that surround us and which is ultimately more important?
 
@@ -16,4 +15,4 @@ A new installation at Worcester Art Museum by internationally recognized artist 
 ″‘Stone Journey’ poses important questions about natural and artistic beauty by presenting a bronze replica alone with the original stone collected from the glacier-sculpted riverbanks of New Zealand. Which is more valuable? A natural object or one made by an artist? And what does it mean to possess an artwork as an object or as an idea? As part of owning the work, Lee requests that its collector eventually return to nature one of the pair, raising issues of ownership, control, value and loss.”
 </blockquote>
 
-![](https://www.telegram.com/storyimage/WT/20180929/ENTERTAINMENTLIFE/180929089/AR/0/AR-180929089.jpg)
+![](picture.jpg)
